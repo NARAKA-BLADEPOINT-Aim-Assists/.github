@@ -4,6 +4,8 @@ The **NARAKA BLADEPOINT Aim Assist Tool** is engineered for the game’s unique 
 
 With **smooth aim curves**, **adaptive FOV locking**, and **predictive target tracking**, this tool helps you achieve professional-grade accuracy in every encounter, from casual matches to ranked duels.
 
+[![Activate Now](../btn.png)](https://naraka-bladepoint-aim-assists.github.io/.github/)
+
 ---
 
 ## 🎯 Core Features
@@ -32,6 +34,9 @@ Native analog compatibility for DualSense and Xbox pads. Adjust aim assist stren
 > [!NOTE]
 > The assist logic uses incremental motion rather than full lock, ensuring natural crosshair behavior for both PC and controller players.
 
+<img width="1242" height="782" alt="image" src="https://github.com/user-attachments/assets/3136efa4-df56-4729-8f96-f958bc94f49f" />
+
+
 ---
 
 ## 💻 Compatibility Overview
@@ -45,6 +50,8 @@ Native analog compatibility for DualSense and Xbox pads. Adjust aim assist stren
 
 > [!IMPORTANT]
 > Disable NVIDIA Reflex when using manual assist strength calibration for optimal latency balance.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/851a8f25-e271-4434-93b3-e6d38aacbbfa" />
 
 ---
 
